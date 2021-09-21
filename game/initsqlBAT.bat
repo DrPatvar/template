@@ -1,0 +1,1 @@
+sqlplus /nolog @init.sql
